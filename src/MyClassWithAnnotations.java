@@ -1,0 +1,3 @@
+@Transformer
+public class MyClassWithAnnotations {
+}
